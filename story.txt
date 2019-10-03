@@ -1,3 +1,5 @@
 There a boy named Jerry who was a new student at UW-Madison. He came to this school all the way from Canada and did not know anyone's name or where anything was. As soon as he arrived, he wanted to find a way to make some new friends. This is the story of Jerry and how he made some new friends at UW-Madison.
 
 So Jerry takes his first bold step and joins a Computer Science club. He meets a lot of people with many interests and was overwhelmed. He mustered enough strength to approach another freshman and introduces himself. To his suprise he learns that they both are in the same classes. Jerry went back home that day proud that he made a new friend. 
+
+Jerry gets home in the late afternoon and realizes that he has all of his assignments finished.  He wants to do something exciting!  He texts his new friend asking if they should create a game using GitHub.  Jerry's friend says he doesn't have much experience dealing with GUIs and working in a team-based environment.  Jerry offers to help his friend and notices that his friend has an artistic talent way beyond Jerry's own.  Thus, they start building an awesome remake of Minesweeper.
